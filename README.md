@@ -4,7 +4,7 @@ Aplicativo web de controle financeiro pessoal. Cadastre receitas e despesas, aco
 
 Todas as análises e dicas são calculadas por regras simples em código. O projeto **não usa nenhuma API de IA**.
 
-> **Demo:** https://SEU-PROJETO.vercel.app
+> **Demo:** https://controlefinanceiro-zeta-peach.vercel.app/
 
 <!-- Dica: adicione aqui um print da tela. Ex.: ![Tela principal](docs/screenshot.png) -->
 
